@@ -1,0 +1,72 @@
+residence_city,metropolitan,city_size,urban_density
+lisbon,metropolitan,large_town,6452
+almada,metropolitan,outskirt,2525
+sintra,metropolitan,outskirt,1208
+cascais,metropolitan,outskirt,2198
+aveiro,non_metropolitan,small_town,409.9
+covilha,non_metropolitan,small_town,702.1
+porto,metropolitan,outskirt,5613
+arganil,non_metropolitan,small_town,33.25
+coimbra,non_metropolitan,outskirt,440.9
+braga,non_metropolitan,outskirt,1054
+oeiras,metropolitan,outskirt,3740
+setubal,metropolitan,outskirt,536.5
+seixal,metropolitan,outskirt,1744
+parede,metropolitan,outskirt,6277
+mafra,metropolitan,small_town,296.6
+guarda,non_metropolitan,small_town,59.74
+corroios,metropolitan,outskirt,2935
+madalena,non_metropolitan,small_town,42.96
+sao paulo,metropolitan,large_town,7820
+recife,metropolitan,large_town,7255
+manaus,metropolitan,large_town,200
+natal,metropolitan,large_town,4692
+rio de janeiro,metropolitan,large_town,5607
+belo horizonte,metropolitan,large_town,7292
+fortaleza/ceara,metropolitan,large_town,8242
+florianopolis,metropolitan,large_town,854.1
+sao carlos,non_metropolitan,outskirt,233.3
+mainz,metropolitan,outskirt,2291
+freiburg,non_metropolitan,small_town,51.93
+hanover,metropolitan,large_town,2512
+essen,metropolitan,large_town,2729
+lorrach,non_metropolitan,small_town,290
+hamburg,metropolitan,large_town,2396
+bremen,metropolitan,large_town,1809
+frankfurt,metropolitan,large_town,2993
+cologne,metropolitan,large_town,2512
+wiesbaden,metropolitan,outskirt,1409
+stuttgart,metropolitan,large_town,2944
+berlin,metropolitan,large_town,4110
+munster,metropolitan,outskirt,1002
+munich,metropolitan,large_town,4759
+amersfoort,metropolitan,outskirt,2590
+enschede,metropolitan,outskirt,1149
+utrecht,metropolitan,outskirt,3991
+ghent,metropolitan,outskirt,1709
+antwerp,metropolitan,large_town,2666
+brussels,metropolitan,outskirt,5948
+landegem,non_metropolitan,small_town,420.8
+dorchester,non_metropolitan,small_town,2998
+london,metropolitan,large_town,5597
+barcelona,metropolitan,large_town,17014
+madrid,metropolitan,large_town,5650
+gothenburg,metropolitan,large_town,1350
+stockholm,metropolitan,large_town,5282
+milano,metropolitan,large_town,2061
+copenhagen,metropolitan,large_town,7254
+helsinki,metropolitan,large_town,3148
+basel,metropolitan,large_town,7375
+villars-sur-glane,non_metropolitan,small_town,2263
+budapest,metropolitan,large_town,3209
+tartu,non_metropolitan,outskirt, 47.10
+athens,metropolitan,large_town,16972
+halifax,metropolitan,outskirt,89.55
+atlanta,metropolitan,large_town,1458
+kuwait,metropolitan,large_town,6821
+tokyo,metropolitan,large_town,6403
+haifa,metropolitan,large_town,2039
+luanda,metropolitan,large_town,24407
+santiago,metropolitan,large_town,23933
+dublin,metropolitan,large_town,5084
+other ,,small_town,
