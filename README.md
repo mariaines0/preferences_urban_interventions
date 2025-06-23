@@ -12,10 +12,11 @@
 
 All interventions (pairs of before-and-after images) explored (embedded in the survey) are available in my Notion profile: https://www.notion.so/Survey-Groups-211188b0f7a980f7b1faf96b14d1a42e?source=copy_link
 
-Before diving into the repository, you should read this: 
-(1) The raw dataset from the survey is available in _data_raw_188.csv_ and countries data in _countries_answers_188.csv_. 
-(2) The _city_metro_v2.csv_ was created to categorize cities of residence collected in   
-(a) metropolitan or non-metropolitan, according to Eurostat metropolitan typology and (b) small town/village; (b) medium-sized city/outskirts/suburban city and (c) large city according to population size
+Before diving into the repository, you should read this:   
+(1) The raw dataset from the survey is available in _data_raw_188.csv_ and countries data in _countries_answers_188.csv_.   
+(2) The _city_metro_v2.csv_ was created to categorize cities of residence collected in     
+ &nbsp;&nbsp;(a) _metropolitan_ or _non-metropolitan_, according to Eurostat metropolitan typology and  
+ &nbsp;&nbsp;(b) small town/village; medium-sized city/outskirts/suburban city and large city according to population size
 
 
 
