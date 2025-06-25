@@ -19,5 +19,17 @@ Before diving into the repository, you should read this:
  &nbsp;&nbsp;(b) small town/village; medium-sized city/outskirts/suburban city and large city according to population size
 
 
+ FIRST STEP: Cleaning Data (_0_clean.ipynb_)
+ 1. You need inputs _data_raw_188.csv_ and _countries_answers_188.csv_ for 0_clean.ipnyb
+ 2. Output: data_clean.csv (also directly available in the respository)
 
+SECOND STEP: Encoding Data (_1_encoding.ipynb_)
+1. You need inputs _data_clean.csv_, _city_metro_v2.csv_ (with city size and metropolitan classification) and _content_v2.csv_ (which categorizes each image)
+2. Output: _data_encoded.csv_
+
+THIRD STEP: Exploratory Data Analysis (_2_EDA.ipynb_) 
+1. 
+
+FOURTH STEP: Logistic Regression Modelling (_3_Logit_Model.ipynb_) 
+1.
 
