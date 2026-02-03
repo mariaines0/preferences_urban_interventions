@@ -1,6 +1,6 @@
 # preferences_urban_interventions
 
-**1.** This repository is a result of the data collected and the analysis conducted for my master thesis titled "Perceptions of Urban Change: Exploring Before-and-After Visual Preferences for Mobility". It aims to be totally open-source for replication purposes.
+**1.** This repository is a result of the data collected and the analysis conducted for a paper under review titled "Perceptions of Urban Change: Exploring Before-and-After Visual Preferences for Mobility" (Lopes, M. I., Valença, G., Moura, F.). It aims to be totally open-source for replication purposes.
 
 **2.** The online survey, developed in Limesurvey,  remains available at the following link (https://ushift.tecnico.ulisboa.pt/~ushift.daemon/limesurvey/index.php/562461?lang=en), and participants are still welcome to complete it and explore its interactive, panoramic and innovative format. The survey can be briefly resumed by the following: 
 
