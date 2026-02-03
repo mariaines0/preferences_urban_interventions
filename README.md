@@ -28,8 +28,6 @@ SECOND STEP: Encoding Data (_1_encoding.ipynb_)
 2. Output: _data_encoded.csv_
 
 THIRD STEP: Exploratory Data Analysis (_2_EDA.ipynb_) 
-1. 
 
 FOURTH STEP: Logistic Regression Modelling (_3_Logit_Model.ipynb_) 
-1.
 
