@@ -1,6 +1,7 @@
 # preferences_urban_interventions
 
-**1.** This repository is a result of the data collected and the analysis conducted for a paper under review titled "Perceptions of Urban Change: Exploring Before-and-After Visual Preferences for Mobility" (Lopes, M. I., Valença, G., Moura, F.). It aims to be totally open-source for replication purposes.
+**1.** This repository is a result of the data collected and the analysis conducted for the following paper: 
+ 1.1	Lopes, M.I., Valença, G., Moura, F. (2026). Exploring Before-and-After visual preferences of street interventions using Google Street View time travel. Landscape and Urban Planning, 273, 105686 (https://www.sciencedirect.com/science/article/pii/S0169204626001179). It aims to be totally open-source for replication purposes.
 
 **2.** The online survey, developed in Limesurvey,  remains available at the following link (https://ushift.tecnico.ulisboa.pt/~ushift.daemon/limesurvey/index.php/562461?lang=en), and participants are still welcome to complete it and explore its interactive, panoramic and innovative format. The survey can be briefly resumed by the following: 
 
